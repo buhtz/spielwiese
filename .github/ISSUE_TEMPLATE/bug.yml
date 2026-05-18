@@ -11,6 +11,7 @@ body:
         👉 Ask **support questions** in the GNU/Linux community or on our [mailing list](https://mail.python.org/mailman3/lists/bit-dev.python.org). Please respect the limited resources of the maintenance team.
   - type: textarea
     attributes:
+      label: label
       value: |
         🚫 AI-generated code submissions are not welcome. ⚠️ If you cannot demonstrate full authorship, understanding, and responsibility for your submitted content, your account might be reported to the GitHub/Microsoft abuse team without warning.
         
